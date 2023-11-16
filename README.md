@@ -1,7 +1,7 @@
 # BankApplication_Phase_3_SOA_Complete
 # Bipul Gautam
 
-[Bank Application is a Java Spring Boot application that simulates basic banking operations.]
+Bank Application is a Java Spring Boot application that simulates basic banking operations.
 
 ## Table of Contents
 
